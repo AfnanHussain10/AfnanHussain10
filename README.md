@@ -21,6 +21,7 @@ const afnan = {
 ```
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
