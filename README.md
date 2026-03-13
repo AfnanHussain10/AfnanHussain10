@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Afnan%20Hussain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20Engineer%20%7C%20Solopreneur&descAlignY=58&descColor=c7d2fe" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afnan--hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnan-hussain/)
-[![Gmail](https://img.shields.io/badge/Gmail-afnan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-afnan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnan.h5050@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@ const afnan = {
   role:     "ML Engineer @ Dubizzle Group",
   location: "Lahore, Pakistan 🇵🇰",
   builder:  "Solopreneur shipping AI-powered products solo",
-  focus:    ["LLM pipelines", "voice AI agents", "agentic systems"]
+  focus:    ["RL fine-tuning", "neural architectures", "LLM pipelines", "ML systems"]
 };
 ```
 
