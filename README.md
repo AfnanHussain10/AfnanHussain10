@@ -68,7 +68,7 @@ const afnan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnan-hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c7d2fe"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfnanHussain10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c7d2fe"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanHussain10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe"/>
 
 </div>
