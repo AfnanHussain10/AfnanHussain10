@@ -22,16 +22,6 @@ const afnan = {
 
 ---
 
-## 🚀 What I'm Building
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🤖 **[AgentDesk](#)** | OS for the one-person AI-powered business | React Native · BullMQ · Supabase · Docker |
-| 📞 **[Revenue Ring](#)** | AI outbound cold calling for SMBs (CA · AU · UAE) | ElevenLabs · Node.js · Clay |
-| 🔧 **[OpenClaw](#)** | Self-hosted AI agent infra on Hetzner VPS | WhatsApp · GitHub Copilot · Gmail SMTP |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
