@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afnan--hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnan-hussain/)
 [![Gmail](https://img.shields.io/badge/Gmail-afnan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-afnan--hussain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afnan-hussain)
 
 </div>
 
