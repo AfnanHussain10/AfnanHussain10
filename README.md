@@ -13,11 +13,10 @@
 
 ```ts
 const afnan = {
-  role:     "Senior Full-Stack + ML Engineer @ Dubizzle Group",
+  role:     "ML Engineer @ Dubizzle Group",
   location: "Lahore, Pakistan 🇵🇰",
   builder:  "Solopreneur shipping AI-powered products solo",
-  focus:    ["LLM pipelines", "voice AI agents", "agentic systems"],
-  looking:  "Research-focused AI roles",
+  focus:    ["LLM pipelines", "voice AI agents", "agentic systems"]
 };
 ```
 
@@ -70,13 +69,13 @@ const afnan = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnan-hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c7d2fe"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-hussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanHussain10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=afnan-hussain&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=c7d2fe)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AfnanHussain10&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=c7d2fe)](https://git.io/streak-stats)
 
 </div>
 
@@ -96,7 +95,7 @@ const afnan = {
 
 <div align="center">
 
-[![Afnan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan-hussain&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Afnan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfnanHussain10&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
